@@ -1,4 +1,4 @@
-#test comment
+#test comment1
 import happybase
 connection = happybase.Connection('localhost')
 connection.create_table('tab',{'vi': dict()})
