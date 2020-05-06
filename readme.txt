@@ -1,1 +1,1 @@
-hbase python connection sample code. Test code. PR test.
+hbase python connection sample code. Test code.  PR test.
